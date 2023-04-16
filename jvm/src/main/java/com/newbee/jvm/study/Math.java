@@ -1,6 +1,5 @@
 package com.newbee.jvm.study;
 
-import com.newbee.jvm.classloader.TestClassLoadPath;
 
 /**
  * @Description: 一个普通的算数类
